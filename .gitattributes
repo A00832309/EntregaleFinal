@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 ProyectoFinal.zip filter=lfs diff=lfs merge=lfs -text
+Multiagentes_Tractor.zip filter=lfs diff=lfs merge=lfs -text
